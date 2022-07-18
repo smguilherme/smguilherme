@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smguilherme
-- 👀 I’m interested in data engineering, mechanical engineering, race cars, build cars and places around the world.
-- 🌱 I’m currently learning Google cloud Plataform for data engineering, pyhon, sql
+- 👀 I’m interested in Data Engineering, Mechanical Engineering, Race Cars, Build Cars and places around the world.
+- 🌱 I’m currently learning Google Cloud Plataform for Data Engineering, Pyhon, Sql.
 - 💞️ I’m looking to collaborate on about everything, let's open the box!
 - 📫 How to reach me linkedIn, instagram @smguilherme or e-mail me guilhermeesm@gmail.com
 
